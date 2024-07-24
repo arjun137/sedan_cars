@@ -1,0 +1,94 @@
+{
+    "sedan_cars": [
+        {
+            "name": "Tata Tigor",
+            "mileage": "20 km/l",
+            "price": "$10,000",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Honda City",
+            "mileage": "18 km/l",
+            "price": "$15,000",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Hyundai Elantra",
+            "mileage": "16 km/l",
+            "price": "$20,000",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Hyundai Aura",
+            "mileage": "22 km/l",
+            "price": "$12,000",
+            "fuel_type": "Diesel"
+        },
+        {
+            "name": "Maruti Ciaz",
+            "mileage": "21 km/l",
+            "price": "$14,000",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Maruti Dzire",
+            "mileage": "23 km/l",
+            "price": "$13,000",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Honda Amaze",
+            "mileage": "19 km/l",
+            "price": "$11,000",
+            "fuel_type": "Diesel"
+        },
+        {
+            "name": "Skoda Slavia",
+            "mileage": "17 km/l",
+            "price": "$18,000",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Hyundai Verna",
+            "mileage": "20 km/l",
+            "price": "$16,000",
+            "fuel_type": "Diesel"
+        },
+        {
+            "name": "Volkswagen Virtus",
+            "mileage": "15 km/l",
+            "price": "$19,000",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "BMW 5 Series",
+            "mileage": "12 km/l",
+            "price": "$50,000",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Audi A4",
+            "mileage": "14 km/l",
+            "price": "$45,000",
+            "fuel_type": "Diesel"
+        },
+        {
+            "name": "Skoda Superb",
+            "mileage": "18 km/l",
+            "price": "$30,000",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Mercedes Benz S-Class",
+            "mileage": "10 km/l",
+            "price": "$80,000",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Lexus ES",
+            "mileage": "13 km/l",
+            "price": "$70,000",
+            "fuel_type": "Hybrid"
+        }
+    ]
+}
